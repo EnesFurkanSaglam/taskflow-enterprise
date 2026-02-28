@@ -1,0 +1,46 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: taskflow
+      POSTGRES_PASSWORD: taskflow123
+      POSTGRES_DB: identitydb
+    ports:
+      - "5432:5432"
+
+  mongodb:
+    image: mongo:7
+    ports:
+      - "27017:27017"
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "TaskFlow123!"
+    ports:
+      - "1433:1433"
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+  seq:
+    image: datalust/seq
+    environment:
+      ACCEPT_EULA: "Y"
+      SEQ_FIRSTRUN_ADMINPASSWORD: "TaskFlow123!"
+    ports:
+      - "5341:5341"
+      - "8081:80"
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:latest
+    command: start-dev
+    environment:
+      KEYCLOAK_ADMIN: admin
+      KEYCLOAK_ADMIN_PASSWORD: admin
+    ports:
+      - "8080:8080"
