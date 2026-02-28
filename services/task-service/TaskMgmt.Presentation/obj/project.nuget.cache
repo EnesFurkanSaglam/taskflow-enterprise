@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3qgE1sB+y4=",
+  "success": true,
+  "projectFilePath": "D:\\NS\\Taskflow Enterprise\\Taskflow Enterprise\\services\\task-service\\TaskMgmt.Presentation\\TaskMgmt.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fsagl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\fsagl\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

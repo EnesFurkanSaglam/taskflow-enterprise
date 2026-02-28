@@ -1,0 +1,16 @@
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\bin\Debug\net10.0\TaskMgmt.Domain.deps.json
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\bin\Debug\net10.0\TaskMgmt.Domain.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\bin\Debug\net10.0\TaskMgmt.Domain.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\bin\Debug\net10.0\BuildingBlocks.Common.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\bin\Debug\net10.0\BuildingBlocks.Common.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.csproj.AssemblyReference.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.AssemblyInfoInputs.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.AssemblyInfo.cs
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.csproj.CoreCompileInputs.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.sourcelink.json
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.BEC9FE6B.Up2Date
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\refint\TaskMgmt.Domain.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\TaskMgmt.Domain.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\task-service\TaskMgmt.Domain\obj\Debug\net10.0\ref\TaskMgmt.Domain.dll

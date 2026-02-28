@@ -1,0 +1,33 @@
+<Solution>
+  <Folder Name="/building-blocks/">
+    <Project Path="building-blocks/BuildingBlocks.Auth/BuildingBlocks.Auth.csproj" />
+    <Project Path="building-blocks/BuildingBlocks.Common/BuildingBlocks.Common.csproj" />
+    <Project Path="building-blocks/BuildingBlocks.Logging/BuildingBlocks.Logging.csproj" />
+    <Project Path="building-blocks/BuildingBlocks.Messaging/BuildingBlocks.Messaging.csproj" />
+  </Folder>
+  <Folder Name="/gateway/">
+    <Project Path="gateway/TaskFlow.Gateway/TaskFlow.Gateway.csproj" />
+  </Folder>
+  <Folder Name="/services/" />
+  <Folder Name="/services/identity-service/">
+    <Project Path="services/identity-service/Identity.Application/Identity.Application.csproj" />
+    <Project Path="services/identity-service/Identity.Domain/Identity.Domain.csproj" />
+    <Project Path="services/identity-service/Identity.Infrastructure/Identity.Infrastructure.csproj" />
+    <Project Path="services/identity-service/Identity.Presentation/Identity.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/services/notification-service/">
+    <Project Path="services/notification-service/Notification.Worker/Notification.Worker.csproj" />
+  </Folder>
+  <Folder Name="/services/project-service/">
+    <Project Path="services/project-service/Project.Application/Project.Application.csproj" />
+    <Project Path="services/project-service/Project.Domain/Project.Domain.csproj" />
+    <Project Path="services/project-service/Project.Infrastructure/Project.Infrastructure.csproj" />
+    <Project Path="services/project-service/Project.Presentation/Project.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/services/task-service/">
+    <Project Path="services/task-service/TaskMgmt.Application/TaskMgmt.Application.csproj" />
+    <Project Path="services/task-service/TaskMgmt.Domain/TaskMgmt.Domain.csproj" />
+    <Project Path="services/task-service/TaskMgmt.Infrastructure/TaskMgmt.Infrastructure.csproj" />
+    <Project Path="services/task-service/TaskMgmt.Presentation/TaskMgmt.Presentation.csproj" />
+  </Folder>
+</Solution>

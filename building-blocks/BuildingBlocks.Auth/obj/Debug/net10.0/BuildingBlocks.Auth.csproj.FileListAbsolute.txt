@@ -1,0 +1,12 @@
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\bin\Debug\net10.0\BuildingBlocks.Auth.deps.json
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\bin\Debug\net10.0\BuildingBlocks.Auth.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\bin\Debug\net10.0\BuildingBlocks.Auth.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.AssemblyInfoInputs.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.AssemblyInfo.cs
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.csproj.CoreCompileInputs.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.sourcelink.json
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\refint\BuildingBlocks.Auth.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\BuildingBlocks.Auth.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\building-blocks\BuildingBlocks.Auth\obj\Debug\net10.0\ref\BuildingBlocks.Auth.dll
