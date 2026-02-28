@@ -1,0 +1,16 @@
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\bin\Debug\net10.0\Identity.Domain.deps.json
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\bin\Debug\net10.0\Identity.Domain.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\bin\Debug\net10.0\Identity.Domain.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\bin\Debug\net10.0\BuildingBlocks.Common.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\bin\Debug\net10.0\BuildingBlocks.Common.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.csproj.AssemblyReference.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.AssemblyInfoInputs.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.AssemblyInfo.cs
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.csproj.CoreCompileInputs.cache
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.sourcelink.json
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.AFA9DB19.Up2Date
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\refint\Identity.Domain.dll
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\Identity.Domain.pdb
+D:\NS\Taskflow Enterprise\Taskflow Enterprise\services\identity-service\Identity.Domain\obj\Debug\net10.0\ref\Identity.Domain.dll
