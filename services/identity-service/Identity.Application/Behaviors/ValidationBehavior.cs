@@ -18,7 +18,7 @@ namespace Identity.Application.Behaviors
 
         public async Task<TResponse> Handle(TRequest request, RequestHandlerDelegate<TResponse> next, CancellationToken cancellationToken)
         {
-            if (_validators.Any()) 
+            if (!_validators.Any()) 
                 return await next();
 
             var context = new ValidationContext<TRequest>(request);
